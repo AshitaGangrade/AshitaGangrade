@@ -1,16 +1,27 @@
-### Hi there 👋
+📊 Data Science and Analytics Enthusiast | 🧩 Problem Solver | 🌟 Insights Seeker
 
-<!--
-**AshitaGangrade/AshitaGangrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greeting! I am Ashita Gangrade, passionate about unraveling complex data puzzles and leveraging insights to drive data-informed decision-making. Eager to apply my skills in data analysis, statistical modeling, and visualization to extract actionable intelligence and make an impact in the world of data-driven solutions.
 
-Here are some ideas to get you started:
+🎓 Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Relevant coursework: 📊Data Science | 📉Data Analytics
+
+💼 Expertise:
+
+📈 Machine Learning Algorithms
+
+🧠 Deep Learning Architectures
+
+📉 Data Modeling and Analysis
+
+🤖 Natural Language Processing
+
+📊 Predictive Analytics
+
+🔧 Tech Toolbox:
+
+🐍 Python | 📦 TensorFlow | 🔥 PyTorch | 💻SQL
+
+📊NumPy | 📉 Pandas | 📊 Matplotlib | 📈 Seaborn |
+
+📊 PowerBI | 📈 Tableau| 📓 Jupyter
